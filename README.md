@@ -1,4 +1,4 @@
-![Certificate](https://graduation.udacity.com/api/graduation/certificate/GHZNPKWH/download)
+My [Certificate](https://graduation.udacity.com/api/graduation/certificate/GHZNPKWH/download)
 
 # Udacity-Deep-Learning-Nanodegree
 This repository's purpose in to document my projects submission to Udacity's [Deep Learning Nanodegree Program](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
