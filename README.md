@@ -1,6 +1,3 @@
-My [Certificate](https://graduation.udacity.com/api/graduation/certificate/GHZNPKWH/download)
-
-
 To Run any of the projects on your local machine please run these commands to create a conda environment
 ```
 conda env create -f environment.yml
